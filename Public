@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мой блог</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+        }
+        .post {
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+            padding: 20px;
+        }
+        .post h2 {
+            margin-top: 0;
+        }
+        .post p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Добро пожаловать на мой блог!</h1>
+
+    <div class="post">
+        <h2>Заголовок первого поста</h2>
+        <p>Это текст первого поста. Здесь вы можете поделиться своими мыслями или новостями.</p>
+    </div>
+
+    <div class="post">
+        <h2>Заголовок второго поста</h2>
+        <p>Это текст второго поста. Добавляйте столько постов, сколько вам нужно!</p>
+    </div>
+
+    <div class="post">
+        <h2>Заголовок третьего поста</h2>
+        <p>Третий пост. Вы можете легко отредактировать этот шаблон для своих нужд.</p>
+    </div>
+
+</body>
+</html>
